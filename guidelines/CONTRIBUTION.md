@@ -31,7 +31,7 @@ We appreciate your interest in collaborating with us on our projects. To ensure 
 ## Communication
 
 ### 1. Collaboration Tools
-- **Preferred Channels**: We primarily communicate through [insert preferred communication tools, e.g., Discord, Slack, etc.]. Feel free to reach out if you have any questions or need clarification on any aspect of the project.
+- **Preferred Channels**: We primarily communicate through Discord. Feel free to reach out if you have any questions or need clarification on any aspect of the project.
 
 ### 2. Stay Updated
 - **Follow Repository Updates**: Keep an eye on the repository for any updates or changes that may impact your contributions. Subscribe to notifications to stay informed.
