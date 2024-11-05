@@ -29,4 +29,4 @@ We’re always looking for like-minded developers, artists, and creators to coll
 - **Website**: [redfox-studios.org](https://www.redfox-studios.org)
 - **GitHub**: [RedFox Studios](https://github.com/RedFox-Studios)
 
-Thanks for visiting, and make sure to check out our repositories! 😄
+Thanks for visiting, and make sure to check out our repositories! 😀
