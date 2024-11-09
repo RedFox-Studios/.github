@@ -1,5 +1,4 @@
 # RedFox Studios 
-[![](https://visitcount.itsvg.in/api?id=0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Welcome to **RedFox Studios**! 👋
 
