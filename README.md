@@ -60,7 +60,7 @@ The repository is organized into folders and files for easy navigation. Here’s
 1. **Clone the Repository**  
    Clone the repository to your local machine for easier access and editing.
    ```bash
-   git clone https://github.com/RedFox-Studios/Docs.git
+   git clone https://github.com/RedFox-Studios/.github.git
    ```
 
 2. **Explore the Documentation**  
