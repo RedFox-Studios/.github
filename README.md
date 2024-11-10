@@ -1,7 +1,3 @@
-Here's the merged README that combines elements from both documents to create a cohesive organizational README:
-
----
-
 # 🦊 RedFox Studios Documentation Repository
 
 Welcome to the official documentation repository for **RedFox Studios**! This repository serves as the central hub for managing the foundational aspects of our GitHub organization and documenting our guidelines, tutorials, and best practices. It is meant to help maintain consistency, share knowledge, and streamline development processes across our team.
