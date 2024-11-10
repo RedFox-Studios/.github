@@ -4,6 +4,29 @@ This changelog reflects the most recent structural changes to the organization�
 
 ---
 
+## GitHub Organization Update 3
+
+### Documentation Enhancements
+
+- **Merged README Files**: Consolidated multiple README files to create a single, unified README. This new README provides:
+  - An overview of RedFox Studios' organization and purpose.
+  - A table of contents for easy navigation.
+  - Clear instructions for getting started, contributing, and using the repository’s documentation.
+
+- **Expanded Repository Structure**: Updated documentation to clarify the organization of the repository, covering key folders like `guidelines/` and `tutorials/` for streamlined navigation and use.
+
+### Purpose and Guidelines
+
+- **Defined Repository Purpose**: Clearly outlined the repository’s purpose to centralize documentation, maintain consistency, support onboarding, and encourage collaboration across projects.
+- **Contributing Guidelines Updated**: Revised the contribution guidelines to ensure new additions follow a consistent format and are clear and accessible.
+
+### Contact and License Information
+
+- **Contact Section**: Added a contact section to help members know who to reach out to for assistance within the organization.
+- **License Updated**: Specified that the repository is for internal use within **RedFox Studios** and that unauthorized use outside the organization is prohibited. 
+
+---
+
 ## GitHub Organization Update 2
 
 ### Added Teams
