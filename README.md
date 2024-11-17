@@ -93,4 +93,4 @@ This repository is for internal use within **RedFox Studios**. Unauthorized use 
 
 For any inquiries or assistance, please reach out to the organization admins.
 
-Thank you for helping to make **RedFox Studios** a collaborative and organized team! 🦊 
+Thank you for helping to make **RedFox Studios** a collaborative and organized team! 🦊
