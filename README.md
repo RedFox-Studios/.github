@@ -6,14 +6,16 @@ Welcome to the official documentation repository for **RedFox Studios**! This re
 
 ## 📖 Table of Contents
 
-1. [Overview](#overview)
-2. [Introduction](#introduction)
-3. [Purpose](#purpose)
-4. [Repository Structure](#repository-structure)
-5. [Getting Started](#getting-started)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+- [🦊 RedFox Studios Documentation Repository](#-redfox-studios-documentation-repository)
+  - [📖 Table of Contents](#-table-of-contents)
+  - [🦊 Overview](#-overview)
+  - [📝 Introduction](#-introduction)
+  - [🎯 Purpose](#-purpose)
+  - [🗂️ Repository Structure](#️-repository-structure)
+  - [🚀 Getting Started](#-getting-started)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
+  - [📬 Contact](#-contact)
 
 ---
 
