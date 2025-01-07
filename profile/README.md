@@ -49,9 +49,13 @@ RedFox Studios was founded with a love for technology and creativity. We aim to 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-## 🤝 Join Us!
+## Joining RedFox Studios organization on GitHub
 
-We’re always looking for like-minded developers, artists, and creators to collaborate. If you’re passionate about game or web development, [reach out to us](mailto:your-email@redfox-studios.org) – we’d love to work with you!
+If you're interested in joining RedFox Studios:
+
+1. Visit our official website: [https://redfox-studios.github.io/](https://redfox-studios.github.io/)
+2. Fill out the membership application form
+3. Our team will review your application and contact you
 
 ## 📫 Contact
 
