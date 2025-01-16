@@ -2,6 +2,8 @@
 
 Welcome to **RedFox Studios**! 👋
 
+Current members: `14`.
+
 We’re a team of passionate developers and creatives focused on bringing innovative and exciting ideas to life, from **game development** to **web solutions**. Our mission is to create projects that are not only fun and functional but also have a lasting impact.
 
 ## 🌟 About Us
