@@ -63,7 +63,7 @@ RedFox Studios was founded with a love for technology and creativity. We aim to 
 
 If you're interested in joining RedFox Studios:
 
-1. Visit our official website: [https://redfox-studios.github.io/](https://redfox-studios.github.io/)
+1. Visit our github.io website: [https://redfox-studios.github.io/](https://redfox-studios.github.io/)
 2. Fill out the membership application form
 3. Our team will review your application and contact you
 
