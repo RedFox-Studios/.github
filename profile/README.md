@@ -6,6 +6,10 @@ Current members: `23`.
 
 We’re a team of passionate developers and creatives focused on bringing innovative and exciting ideas to life, from **game development** to **web solutions**. Our mission is to create projects that are not only fun and functional but also have a lasting impact.
 
+Discord Servers:
+- RedFox Studios: https://discord.gg/JWVMk9pvPS
+- RedFox Studios Employees Only: https://discord.gg/HaAaTNHvpk
+
 ## 🌟 About Us
 
 RedFox Studios was founded with a love for technology and creativity. We aim to deliver quality and make a mark in the **indie game development** and **web development** spaces. We believe in open-source values and often share our work here for the community.
