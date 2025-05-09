@@ -1,5 +1,7 @@
 # RedFox Studios 
 
+![VisitCount](https://komarev.com/ghpvc/?username=redfox-studios&style=for-the-badge&color=121212)
+
 Welcome to **RedFox Studios**! 👋
 
 Current member count: `25`.
