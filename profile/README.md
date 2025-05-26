@@ -71,3 +71,6 @@ If you're interested in joining RedFox Studios:
 - **Mail**: [support@redfox-studios.org](mailto:support@redfox-studios.org)
 
 Thanks for visiting, and make sure to check out our repositories! 😀
+
+## 💰 You can help us by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pilot2254) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pilot2254) 
